@@ -1,0 +1,10 @@
+dist-newstyle/
+
+dist/
+
+/result
+*~
+
+static/
+
+cabal.project.local
